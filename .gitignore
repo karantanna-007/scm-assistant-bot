@@ -1,0 +1,11 @@
+.env
+*.env
+.env.local
+.env.*
+api_keys.txt
+secrets.txt
+credentials.json
+*.key
+node_modules/
+__pycache__/
+*.pyc
